@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tVYJ66vdOzE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loq\\Desktop\\ayzuu\\ayzuu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loq\\.nuget\\packages\\system.speech\\10.0.14\\system.speech.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
